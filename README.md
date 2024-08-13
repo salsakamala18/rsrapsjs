@@ -17,3 +17,8 @@ https://javascript.info/xmlhttprequest
 <br>
 
 > [javascript - How to make a JSON object out of getAllResponseHeaders method - Stack Overflow](https://stackoverflow.com/questions/37924305/how-to-make-a-json-object-out-of-getallresponseheaders-method)
+```bash
+https://stackoverflow.com/questions/37924305/how-to-make-a-json-object-out-of-getallresponseheaders-method
+```
+<br>
+
